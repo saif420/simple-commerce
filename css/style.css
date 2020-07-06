@@ -1,0 +1,29 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel{
+    background: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.caro-title{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.caro-info{
+    font-size: 18px;
+}
+.price{
+    color: #FF136F;
+}
+.b-n-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%,#FF136F 100%);
+    border: 0px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    padding: 10px 25px;   
+    margin-top: 10px; 
+    cursor: pointer;
+}
