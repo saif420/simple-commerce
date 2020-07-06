@@ -1,6 +1,13 @@
 .container{
     margin-bottom: 100px;
 }
+.fixed-top {
+    right: 76px;
+    left: 76px;
+    border-bottom: 2px solid #FF136F;
+    border-radius: 5px;
+
+}
 .carousel{
     background: #fceae8;
     border-radius: 10px;
